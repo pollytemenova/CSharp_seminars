@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\obj\Debug\net6.0\CSharp_seminars.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\obj\Debug\net6.0\CSharp_seminars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\obj\Debug\net6.0\CSharp_seminars.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\obj\Debug\net6.0\CSharp_seminars.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\obj\Debug\net6.0\CSharp_seminars.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\bin\Debug\net6.0\CSharp_seminars.exe
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\bin\Debug\net6.0\CSharp_seminars.deps.json
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\bin\Debug\net6.0\CSharp_seminars.runtimeconfig.json
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\bin\Debug\net6.0\CSharp_seminars.dll
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\bin\Debug\net6.0\CSharp_seminars.pdb
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\obj\Debug\net6.0\CSharp_seminars.dll
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\obj\Debug\net6.0\refint\CSharp_seminars.dll
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\obj\Debug\net6.0\CSharp_seminars.pdb
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\obj\Debug\net6.0\CSharp_seminars.genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\CSharp_seminars\Seminar_001-3\obj\Debug\net6.0\ref\CSharp_seminars.dll
